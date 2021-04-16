@@ -1,0 +1,123 @@
+==========
+serial sum - Average: 0.025359s - Std. deviation: 0.000036s - Sum value: 5000325.348810
+==========
+omp sum ( 1 threads) - Average: 0.025401s - Std. deviation: 0.000009s - Sum value: 5000325.348810
+Different results in omp_sum with  2 threads: 2636247.208958
+Different results in omp_sum with  2 threads: 2657682.792928
+Different results in omp_sum with  2 threads: 2659279.446693
+Different results in omp_sum with  2 threads: 2660671.877541
+Different results in omp_sum with  2 threads: 2659430.750607
+Different results in omp_sum with  2 threads: 2658653.539688
+Different results in omp_sum with  2 threads: 2666219.357730
+Different results in omp_sum with  2 threads: 2658100.956530
+Different results in omp_sum with  2 threads: 2655253.973748
+Different results in omp_sum with  2 threads: 2554107.616355
+omp sum ( 2 threads) - Average: 0.020876s - Std. deviation: 0.000140s - Sum value: 2554107.616355
+Different results in omp_sum with  4 threads: 1423203.707318
+Different results in omp_sum with  4 threads: 1392579.889881
+Different results in omp_sum with  4 threads: 1399084.442515
+Different results in omp_sum with  4 threads: 1391606.414499
+Different results in omp_sum with  4 threads: 1386577.510086
+Different results in omp_sum with  4 threads: 1395781.702821
+Different results in omp_sum with  4 threads: 1396571.682986
+Different results in omp_sum with  4 threads: 1394033.294670
+Different results in omp_sum with  4 threads: 1394491.092941
+Different results in omp_sum with  4 threads: 1391885.191296
+omp sum ( 4 threads) - Average: 0.022278s - Std. deviation: 0.000051s - Sum value: 1391885.191296
+Different results in omp_sum with  8 threads: 789545.064205
+Different results in omp_sum with  8 threads: 772159.438640
+Different results in omp_sum with  8 threads: 777100.463562
+Different results in omp_sum with  8 threads: 618015.128326
+Different results in omp_sum with  8 threads: 706384.709781
+Different results in omp_sum with  8 threads: 710899.462510
+Different results in omp_sum with  8 threads: 722844.633674
+Different results in omp_sum with  8 threads: 723870.342278
+Different results in omp_sum with  8 threads: 726108.437032
+Different results in omp_sum with  8 threads: 706260.901629
+omp sum ( 8 threads) - Average: 0.026567s - Std. deviation: 0.000262s - Sum value: 706260.901629
+Different results in omp_sum with 16 threads: 422017.399471
+Different results in omp_sum with 16 threads: 443329.180315
+Different results in omp_sum with 16 threads: 458662.760641
+Different results in omp_sum with 16 threads: 440103.784364
+Different results in omp_sum with 16 threads: 466413.672998
+Different results in omp_sum with 16 threads: 435572.111903
+Different results in omp_sum with 16 threads: 436463.538634
+Different results in omp_sum with 16 threads: 441078.900600
+Different results in omp_sum with 16 threads: 455960.363932
+Different results in omp_sum with 16 threads: 466828.546228
+omp sum (16 threads) - Average: 0.029279s - Std. deviation: 0.000122s - Sum value: 466828.546228
+Different results in omp_sum with 20 threads: 418710.325710
+Different results in omp_sum with 20 threads: 421696.771906
+Different results in omp_sum with 20 threads: 441128.550159
+Different results in omp_sum with 20 threads: 437534.293567
+Different results in omp_sum with 20 threads: 454894.486860
+Different results in omp_sum with 20 threads: 426249.606436
+Different results in omp_sum with 20 threads: 442219.897183
+Different results in omp_sum with 20 threads: 418968.757703
+Different results in omp_sum with 20 threads: 520883.904619
+Different results in omp_sum with 20 threads: 480002.554083
+omp sum (20 threads) - Average: 0.029407s - Std. deviation: 0.000134s - Sum value: 480002.554083
+Different results in omp_sum with 24 threads: 344602.388545
+Different results in omp_sum with 24 threads: 441038.680357
+Different results in omp_sum with 24 threads: 391158.831594
+Different results in omp_sum with 24 threads: 409410.923252
+Different results in omp_sum with 24 threads: 456254.110028
+Different results in omp_sum with 24 threads: 395692.360291
+Different results in omp_sum with 24 threads: 389508.405989
+Different results in omp_sum with 24 threads: 422131.286763
+Different results in omp_sum with 24 threads: 437354.858732
+Different results in omp_sum with 24 threads: 421425.861283
+omp sum (24 threads) - Average: 0.029408s - Std. deviation: 0.000100s - Sum value: 421425.861283
+Different results in omp_sum with 28 threads: 338459.333536
+Different results in omp_sum with 28 threads: 367124.924568
+Different results in omp_sum with 28 threads: 386895.719754
+Different results in omp_sum with 28 threads: 362666.146600
+Different results in omp_sum with 28 threads: 376855.254129
+Different results in omp_sum with 28 threads: 352927.639244
+Different results in omp_sum with 28 threads: 380166.006134
+Different results in omp_sum with 28 threads: 366229.626142
+Different results in omp_sum with 28 threads: 332508.164546
+Different results in omp_sum with 28 threads: 338614.299815
+omp sum (28 threads) - Average: 0.029689s - Std. deviation: 0.000144s - Sum value: 338614.299815
+Different results in omp_sum with 32 threads: 298755.915610
+Different results in omp_sum with 32 threads: 283094.465214
+Different results in omp_sum with 32 threads: 283366.452344
+Different results in omp_sum with 32 threads: 282992.788011
+Different results in omp_sum with 32 threads: 274605.774750
+Different results in omp_sum with 32 threads: 304676.177015
+Different results in omp_sum with 32 threads: 314123.113638
+Different results in omp_sum with 32 threads: 264475.199957
+Different results in omp_sum with 32 threads: 309723.882864
+Different results in omp_sum with 32 threads: 290144.999854
+omp sum (32 threads) - Average: 0.030145s - Std. deviation: 0.000231s - Sum value: 290144.999854
+==========
+omp critical sum ( 1 threads) - Average: 0.145201s - Std. deviation: 0.000119s - Sum value: 5000325.348810
+omp critical sum ( 2 threads) - Average: 0.364955s - Std. deviation: 0.028346s - Sum value: 5000325.348810
+omp critical sum ( 4 threads) - Average: 0.717390s - Std. deviation: 0.008980s - Sum value: 5000325.348810
+omp critical sum ( 8 threads) - Average: 1.178610s - Std. deviation: 0.047113s - Sum value: 5000325.348810
+omp critical sum (16 threads) - Average: 1.399265s - Std. deviation: 0.014437s - Sum value: 5000325.348810
+omp critical sum (20 threads) - Average: 1.708418s - Std. deviation: 0.038583s - Sum value: 5000325.348810
+omp critical sum (24 threads) - Average: 1.948444s - Std. deviation: 0.040750s - Sum value: 5000325.348810
+omp critical sum (28 threads) - Average: 2.046470s - Std. deviation: 0.036178s - Sum value: 5000325.348810
+omp critical sum (32 threads) - Average: 2.159774s - Std. deviation: 0.015217s - Sum value: 5000325.348810
+==========
+omp local sum ( 1 threads) - Average: 0.027750s - Std. deviation: 0.001137s - Sum value: 5000325.348810
+omp local sum ( 2 threads) - Average: 0.020129s - Std. deviation: 0.000128s - Sum value: 5000325.348810
+omp local sum ( 4 threads) - Average: 0.026080s - Std. deviation: 0.003449s - Sum value: 5000325.348810
+omp local sum ( 8 threads) - Average: 0.027796s - Std. deviation: 0.000529s - Sum value: 5000325.348810
+omp local sum (16 threads) - Average: 0.015341s - Std. deviation: 0.000080s - Sum value: 5000325.348810
+omp local sum (20 threads) - Average: 0.015511s - Std. deviation: 0.000085s - Sum value: 5000325.348810
+omp local sum (24 threads) - Average: 0.017950s - Std. deviation: 0.000466s - Sum value: 5000325.348810
+omp local sum (28 threads) - Average: 0.017092s - Std. deviation: 0.000302s - Sum value: 5000325.348810
+omp local sum (32 threads) - Average: 0.015376s - Std. deviation: 0.000529s - Sum value: 5000325.348810
+==========
+opt local sum ( 1 threads) - Average: 0.025548s - Std. deviation: 0.000011s - Sum value: 5000325.348810
+opt local sum ( 2 threads) - Average: 0.012993s - Std. deviation: 0.000177s - Sum value: 5000325.348810
+opt local sum ( 4 threads) - Average: 0.007868s - Std. deviation: 0.000038s - Sum value: 5000325.348810
+opt local sum ( 8 threads) - Average: 0.004488s - Std. deviation: 0.000041s - Sum value: 5000325.348810
+opt local sum (16 threads) - Average: 0.002613s - Std. deviation: 0.000103s - Sum value: 5000325.348810
+opt local sum (20 threads) - Average: 0.002607s - Std. deviation: 0.000064s - Sum value: 5000325.348810
+opt local sum (24 threads) - Average: 0.002502s - Std. deviation: 0.000059s - Sum value: 5000325.348810
+opt local sum (28 threads) - Average: 0.002587s - Std. deviation: 0.000097s - Sum value: 5000325.348810
+opt local sum (32 threads) - Average: 0.002592s - Std. deviation: 0.000113s - Sum value: 5000325.348810
+==========
