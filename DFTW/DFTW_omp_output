@@ -1,0 +1,10 @@
+DFTW calculation with N = 10000 
+DFTW ( 1 threads) - Average: 5.358110s - Std. deviation: 0.169490s
+DFTW ( 2 threads) - Average: 2.653497s - Std. deviation: 0.005211s
+DFTW ( 4 threads) - Average: 1.341239s - Std. deviation: 0.008611s
+DFTW ( 8 threads) - Average: 0.734279s - Std. deviation: 0.017143s
+DFTW (16 threads) - Average: 0.419472s - Std. deviation: 0.006189s
+DFTW (20 threads) - Average: 0.341958s - Std. deviation: 0.002041s
+DFTW (24 threads) - Average: 0.284686s - Std. deviation: 0.001486s
+DFTW (28 threads) - Average: 0.245459s - Std. deviation: 0.000998s
+DFTW (32 threads) - Average: 0.239044s - Std. deviation: 0.035212s
